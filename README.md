@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common off-by-one error when working with arrays.  The program aims to populate an array with data, but due to an incorrect loop condition, it either misses an element or attempts to access an element outside the array's bounds. The solution shows how to fix this error using appropriate loop conditions.
